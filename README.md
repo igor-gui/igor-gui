@@ -110,3 +110,17 @@
     </tr>
   </tbody>
 </table>
+
+- <h2>Plataformas</h2>
+
+  ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)&nbsp;
+  ![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)&nbsp;
+  ![ElephantSQL](https://img.shields.io/badge/-ElephantSQL-000?style=for-the-badge&logo=render)&nbsp;
+
+- <h2>Redes</h2>
+  <a href="linkedin.com/in/igorgui-tech/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>&nbsp;
+<details>
+  <summary>Linguagens Mais utilizadas</summary>
+<br>
+  <img height="172em" alt="Igor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-gui&layout=compact&langs_count=10&theme=dark&bg_color"/>
+</details>
