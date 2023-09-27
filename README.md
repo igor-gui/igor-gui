@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Web Full Stack</h3>
 <br>
 
-💼 **Atualmente**, Dev Driven, desenvolvendo interfaces estáticas e dinâmicas com React, além do desenvolvimento de API's à bancos de dados.
+💼 **Atualmente**, Dev Driven, desenvolvendo interfaces estáticas e dinâmicas com React, além do desenvolvimento de API's à bancos de dados. Sempre procurando aprimorar projetos antigos.
 
 
 
